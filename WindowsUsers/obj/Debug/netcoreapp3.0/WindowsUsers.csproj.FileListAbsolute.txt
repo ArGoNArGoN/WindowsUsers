@@ -1,0 +1,6 @@
+C:\repos\WindowsUsers\WindowsUsers\obj\Debug\netcoreapp3.0\WindowsUsers.csproj.AssemblyReference.cache
+C:\repos\WindowsUsers\WindowsUsers\obj\Debug\netcoreapp3.0\WindowsUsers.AssemblyInfoInputs.cache
+C:\repos\WindowsUsers\WindowsUsers\obj\Debug\netcoreapp3.0\WindowsUsers.AssemblyInfo.cs
+C:\repos\WindowsUsers\WindowsUsers\obj\Debug\netcoreapp3.0\WindowsUsers.csproj.CoreCompileInputs.cache
+C:\repos\WindowsUsers\WindowsUsers\obj\Debug\netcoreapp3.0\WindowsUsers.MvcApplicationPartsAssemblyInfo.cs
+C:\repos\WindowsUsers\WindowsUsers\obj\Debug\netcoreapp3.0\WindowsUsers.MvcApplicationPartsAssemblyInfo.cache
